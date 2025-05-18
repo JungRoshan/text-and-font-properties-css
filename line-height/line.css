@@ -1,0 +1,18 @@
+/* By default line height is normal */
+h1{
+    
+    line-height: normal;
+    
+
+}
+/* changing line height */
+p{
+    line-height: 2;
+    /* letter-spacing is by default set to normal */
+    letter-spacing: normal;
+}
+h4{
+    line-height: 2;
+    /* letter -spacing is set to any random pixel */
+    letter-spacing: 10px;
+}

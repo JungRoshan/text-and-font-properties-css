@@ -1,0 +1,29 @@
+h1{ 
+    /* usually header are bold but i reduced it to normal */
+    font-weight: normal;
+    /* we must  define line before using style  */
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    
+}
+
+p{ 
+    /* usually paragraph contain light text but i made it bold using bold */
+    font-weight: 700;
+    /* TEXT DECORATION (I,E LINE THROUGH WITH GREEN  */
+    text-decoration : green line-through;
+
+}
+h3{
+    font-weight: 100;
+    /* Overline text deco */
+    text-decoration-line: overline;
+}
+a{
+    /* Rempove underline in link created using anchor tag as there is by default link  */
+    text-decoration: none;
+}
+h4{
+    /* using text-decoration to change style of line */
+    text-decoration: wavy green overline;
+}

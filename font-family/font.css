@@ -1,0 +1,5 @@
+/* changing font style from default to impact  */
+h2{
+        font-family: Impact,calibri,sans-serif;
+        font-size: 25px;
+}
